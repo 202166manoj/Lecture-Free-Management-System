@@ -1,0 +1,19 @@
+*Database Name: lfrsdb*
+
+
+*Admin Login Details*
+Username: admin
+Password: Password@123
+
+*Student Login Details*
+Username: Enter your student id
+Password: mnpt@1234
+
+*Lecturer Login Details*
+Username: enter your email
+Password: MNPT@1234
+
+*Instructor Login Details*
+Username: enter your email
+Password: MNPT@5678 
+
